@@ -12,3 +12,8 @@ Performance Comparison of a Hadoop DFS to a Centralized File System of a Single 
 Link to the project paper:
 --------------------------
 http://repository.stcloudstate.edu/csit_etds/14/
+
+Notes:
+------
+   1) About Hadoop sort code, this is the optimized one. If you need to check the version before optimizing, please check the paper.
+   2) If anyone finds any difference between this code version and the paper code version, FOLLOW the paper version.
