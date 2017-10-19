@@ -18,3 +18,4 @@ Notes:
 ------
    1) About Hadoop sort code, this is the optimized one. If you need to check the version before optimizing, please check the paper.
    2) If anyone finds any difference between this code version and the paper code version, FOLLOW the paper version.
+   3) # of downloads is 310 so far!
